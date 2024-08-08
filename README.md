@@ -1,1 +1,1 @@
-# Song_Genre_Classification
+For this project, I learned how to clean our data, do some exploratory data visualization, and use feature reduction towards the goal of feeding my song genre data through some simple machine learning algorithms, such as decision trees and logistic regression.
